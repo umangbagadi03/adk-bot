@@ -1,0 +1,6 @@
+python-dotenv
+pdfplumber
+openai
+litellm
+google-adk
+google-agent-development-kit @ git+https://github.com/google/agent-development-kit.git
